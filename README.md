@@ -12,4 +12,4 @@ This repository contains an example of an API implementation written in typescri
 
 
 Resources:
-- https://www.youtube.com/watch?v=QBBewrKR1qg - Mastering the AWS Serverless Application Model (AWS SAM) - AWS Online Tech Talks
+- https://www.youtube.com/playlist?list=PLJo-rJlep0ED198FJnTzhIB5Aut_1vDAd - Sessions with SAM
